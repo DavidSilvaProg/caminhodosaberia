@@ -1,0 +1,62 @@
+{
+  "trabalho_domestico_mulher": [
+    {
+      "year": 2023,
+      "title": "Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil",
+      "author": "Victória da Silva Nascimento",
+      "source_url": "https://guiadoestudante.abril.com.br/enem/5-redacoes-nota-mil-dos-ultimos-anos-para-se-inspirar/",
+      "theme_slug": "trabalho_domestico_mulher",
+      "keywords": ["trabalho de cuidado", "invisibilidade", "machismo", "negligência governamental", "igualdade de oportunidades"],
+      "quote": "Destarte, é primordial combater as origens do revés, a fim de mitigá-lo.",
+      "summary": "Texto defende que a desvalorização do cuidado doméstico decorre de construção social machista e omissão estatal; propõe políticas educacionais e econômicas para valorizar esse trabalho e reduzir desigualdades."
+    }
+  ],
+  "povos_tradicionais": [
+    {
+      "year": 2022,
+      "title": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+      "author": "Luís Felipe Alves Paiva de Brito",
+      "source_url": "https://guiadoestudante.abril.com.br/enem/5-redacoes-nota-mil-dos-ultimos-anos-para-se-inspirar/",
+      "theme_slug": "povos_tradicionais",
+      "keywords": ["povos indígenas", "comunidades tradicionais", "educação", "desenvolvimento sustentável", "garimpo"],
+      "quote": "Atuam como desafios a educação deficiente e a ausência do desenvolvimento sustentável.",
+      "summary": "Argumenta que estereótipos escolares e atividades econômicas predatórias desvalorizam povos tradicionais; defende currículo específico e fiscalização para conciliar preservação e direitos territoriais."
+    }
+  ],
+  "registro_civil": [
+    {
+      "year": 2021,
+      "title": "Invisibilidade e registro civil: garantia de acesso à cidadania no Brasil",
+      "author": "Daiane Souza",
+      "source_url": "https://guiadoestudante.abril.com.br/enem/5-redacoes-nota-mil-dos-ultimos-anos-para-se-inspirar/",
+      "theme_slug": "registro_civil",
+      "keywords": ["documentação", "cidadania", "desigualdade", "políticas públicas", "informação"],
+      "quote": "Nota-se a invisibilidade associada ao acesso ao registro civil.",
+      "summary": "Relaciona a falta de documentos à exclusão escolar e laboral; critica a invisibilidade do problema e propõe um programa nacional para ampliar o registro civil, com ações educativas e assistência social."
+    }
+  ],
+  "doencas_mentais": [
+    {
+      "year": 2020,
+      "title": "O estigma associado às doenças mentais na sociedade brasileira",
+      "author": "Adrielly Clara Enriques",
+      "source_url": "https://guiadoestudante.abril.com.br/enem/5-redacoes-nota-mil-dos-ultimos-anos-para-se-inspirar/",
+      "theme_slug": "doencas_mentais",
+      "keywords": ["estigma", "transtornos mentais", "informação", "educação", "preconceito"],
+      "quote": "Há um estigma relacionado aos transtornos mentais.",
+      "summary": "Mostra raízes históricas do estigma e a carência de informação; recomenda ações escolares com especialistas para difundir conhecimento e reduzir preconceitos contra transtornos mentais."
+    }
+  ],
+  "cinema_brasil": [
+    {
+      "year": 2019,
+      "title": "Democratização do acesso ao cinema no Brasil",
+      "author": "Isabella Cardoso",
+      "source_url": "https://guiadoestudante.abril.com.br/enem/5-redacoes-nota-mil-dos-ultimos-anos-para-se-inspirar/",
+      "theme_slug": "cinema_brasil",
+      "keywords": ["acessibilidade", "preço de ingresso", "infraestrutura", "direito à cultura"],
+      "quote": "Urge a análise e a resolução desses entraves.",
+      "summary": "Aponta elitização e barreiras de acessibilidade nas salas; defende campanhas públicas e adequações estruturais, além de preços acessíveis, para garantir o direito à cultura."
+    }
+  ]
+}

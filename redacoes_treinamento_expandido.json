@@ -1,0 +1,66 @@
+[
+  {
+    "ano": 2023,
+    "tema": "Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil",
+    "nota": 1000,
+    "slug_tema": "trabalho_domestico_mulher",
+    "qualidade": "alta",
+    "texto": "Conforme estudos demográficos realizados pelo Instituto Brasileiro de Geografia e Estatística (IBGE)... (texto completo omitido por brevidade)"
+  },
+  {
+    "ano": 2022,
+    "tema": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+    "nota": 1000,
+    "slug_tema": "povos_tradicionais",
+    "qualidade": "alta",
+    "texto": "O poeta modernista Oswald de Andrade relata, em 'Erro de Português'... (texto completo omitido por brevidade)"
+  },
+  {
+    "ano": 2021,
+    "tema": "Invisibilidade e registro civil: garantia de acesso à cidadania no Brasil",
+    "nota": 1000,
+    "slug_tema": "registro_civil",
+    "qualidade": "alta",
+    "texto": "Norberto Bobbio, cientista político italiano, afirma que a democracia é um processo... (texto completo omitido por brevidade)"
+  },
+  {
+    "ano": 2020,
+    "tema": "O estigma associado às doenças mentais na sociedade brasileira",
+    "nota": 1000,
+    "slug_tema": "doencas_mentais",
+    "qualidade": "alta",
+    "texto": "No filme estadunidense 'Coringa', o personagem principal, Arthur Fleck... (texto completo omitido por brevidade)"
+  },
+  {
+    "ano": 2017,
+    "tema": "Os desafios da formação educacional de surdos no Brasil",
+    "nota": 880,
+    "slug_tema": "educacao_surdos",
+    "qualidade": "media",
+    "texto": "Os sentidos são fundamentais para a capacidade de captar diferentes estímulos... (texto completo omitido por brevidade)"
+  },
+  {
+    "ano": 2017,
+    "tema": "Os desafios da formação educacional de surdos no Brasil",
+    "nota": 960,
+    "slug_tema": "educacao_surdos",
+    "qualidade": "alta",
+    "texto": "A educação é um direito fundamental garantido pela Constituição brasileira... (texto completo omitido por brevidade)"
+  },
+  {
+    "ano": 2020,
+    "tema": "O estigma associado às doenças mentais na sociedade brasileira",
+    "nota": 880,
+    "slug_tema": "doencas_mentais",
+    "qualidade": "media",
+    "texto": "“Ensaio sobre a cegueira”, romance de José Saramago, retrata a invisibilidade... (texto completo omitido por brevidade)"
+  },
+  {
+    "ano": 2012,
+    "tema": "O movimento imigratório para o Brasil no Século XXI",
+    "nota": 960,
+    "slug_tema": "imigracao",
+    "qualidade": "alta",
+    "texto": "Conforme dito pelo cantor Bob Marley, um povo sem conhecimento... (texto completo omitido por brevidade)"
+  }
+]
